@@ -242,3 +242,6 @@ This repository serves as the official landing page for WebShots Desktop. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WebShots Desktop today!**
+
+---
+**Last updated:** 2026-09-10 15:52:17 UTC
