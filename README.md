@@ -244,4 +244,4 @@ This repository serves as the official landing page for WebShots Desktop. The so
 **Get the most recent version of WebShots Desktop today!**
 
 ---
-**Last updated:** 2026-10-01 20:06:49 UTC
+**Last updated:** 2026-10-02 00:31:16 UTC
